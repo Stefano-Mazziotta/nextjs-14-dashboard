@@ -16,7 +16,7 @@ Here's an overview of features you'll learn about in this course:
 - ✅ Styling: The different ways to style your application in Next.js.
 - ✅ Optimizations: How to optimize images, links, and fonts.
 - ✅ Routing: How to create nested layouts and pages using file-system routing.
-- Data Fetching: How to set up a database on Vercel, and best practices for fetching and streaming.
+- ✅ Data Fetching: How to set up a database on Vercel, and best practices for fetching and streaming.
 - Search and Pagination: How to implement search and pagination using URL Search Params.
 - Mutating Data: How to mutate data using React Server Actions, and revalidate the Next.js cache.
 - Error Handling: How to handle general and 404 not found errors.
