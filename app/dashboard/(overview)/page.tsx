@@ -11,13 +11,6 @@ import {
 } from '@/app/ui/skeletons';
 
 export default async function Page() {
-  // const {
-  //   numberOfCustomers,
-  //   numberOfInvoices,
-  //   totalPaidInvoices,
-  //   totalPendingInvoices,
-  // } = await fetchCardData();
-
   return (
     <main>
       <h1 className={`${roboto.className} md:text-21 mb-4 text-xl`}>
